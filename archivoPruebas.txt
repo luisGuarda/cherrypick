@@ -2,6 +2,12 @@ Modificaciones de develop
 
 AA
 
+<<<<<<< HEAD
 Modificaciones para feature 1132
 
 BB
+=======
+Modificaciones para adve 707
+
+CCC
+>>>>>>> d71d6d6... modificaciones para adve 707
